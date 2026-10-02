@@ -1,0 +1,111 @@
+{
+  "generatedAt": "2026-10-01T11:23:51.320Z",
+  "rule": "S/A 进商用候选；A-license-review 只做参考，先法务核验；B/C 不进商用交付。",
+  "repos": [
+    {
+      "id": "gl-transitions",
+      "owner": "gl-transitions",
+      "repo": "gl-transitions",
+      "branch": "master",
+      "category": "Transitions",
+      "license": "MIT",
+      "tier": "S",
+      "why": "社区标准 GLSL 转场集合，跨编辑器可用",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\12-开源库\\Transitions\\gl-transitions",
+      "status": "exists",
+      "bytes": 634560
+    },
+    {
+      "id": "motion-canvas",
+      "owner": "motion-canvas",
+      "repo": "motion-canvas",
+      "branch": "main",
+      "category": "AnimationEngines",
+      "license": "MIT",
+      "tier": "A",
+      "why": "代码驱动二维动画引擎，适合技术解释/数据动画",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\12-开源库\\AnimationEngines\\motion-canvas",
+      "commit": "7b91435c301d530351dcf5ebb91dd139c002e405",
+      "bytes": 4033907,
+      "status": "downloaded"
+    },
+    {
+      "id": "motion-primitives",
+      "owner": "ibelick",
+      "repo": "motion-primitives",
+      "branch": "main",
+      "category": "UIComponents",
+      "license": "MIT",
+      "tier": "A",
+      "why": "高质量 React 动效原语",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\12-开源库\\UIComponents\\motion-primitives",
+      "status": "exists",
+      "bytes": 2086425
+    },
+    {
+      "id": "magicui",
+      "owner": "magicuidesign",
+      "repo": "magicui",
+      "branch": "main",
+      "category": "UIComponents",
+      "license": "MIT",
+      "tier": "A",
+      "why": "150+ 动画 UI 组件",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\12-开源库\\UIComponents\\magicui",
+      "status": "exists",
+      "bytes": 16184687
+    },
+    {
+      "id": "template-tiktok",
+      "owner": "remotion-dev",
+      "repo": "template-tiktok",
+      "branch": "main",
+      "category": "VideoTemplates",
+      "license": "Remotion custom license - review required",
+      "tier": "A-license-review",
+      "why": "官方 TikTok 字幕模板",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\12-开源库\\VideoTemplates\\template-tiktok",
+      "status": "exists",
+      "bytes": 4104339
+    },
+    {
+      "id": "codehike",
+      "owner": "code-hike",
+      "repo": "codehike",
+      "branch": "main",
+      "category": "VideoTemplates",
+      "license": "MIT",
+      "tier": "A",
+      "why": "高质量代码动画",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\12-开源库\\VideoTemplates\\codehike",
+      "status": "exists",
+      "bytes": 4840740
+    },
+    {
+      "id": "react-three-fiber",
+      "owner": "pmndrs",
+      "repo": "react-three-fiber",
+      "branch": "master",
+      "category": "AnimationEngines",
+      "license": "MIT",
+      "tier": "A",
+      "why": "React 三维/产品可视化工件",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\12-开源库\\AnimationEngines\\react-three-fiber",
+      "status": "exists",
+      "bytes": 4070339
+    },
+    {
+      "id": "lottie-web",
+      "owner": "airbnb",
+      "repo": "lottie-web",
+      "branch": "master",
+      "category": "AnimationEngines",
+      "license": "MIT",
+      "tier": "A",
+      "why": "Lottie 矢量动画播放器",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\12-开源库\\AnimationEngines\\lottie-web",
+      "status": "exists",
+      "bytes": 55464925
+    }
+  ]
+}

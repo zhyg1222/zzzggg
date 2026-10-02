@@ -1,0 +1,440 @@
+{
+  "generatedAt": "2026-10-01T11:13:25.504Z",
+  "fonts": [
+    {
+      "id": "noto-sans-sc-vf",
+      "name": "Noto Sans SC Variable",
+      "file": "NotoSansSC-VF.ttf",
+      "url": "https://raw.githubusercontent.com/notofonts/noto-cjk/main/Sans/Variable/TTF/Subset/NotoSansSC-VF.ttf",
+      "license": "SIL Open Font License 1.1",
+      "licenseUrl": "https://openfontlicense.org/",
+      "kind": "font",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\05-字体\\Noto\\NotoSansSC-VF.ttf",
+      "bytes": 17773132
+    },
+    {
+      "id": "inter-vf",
+      "name": "Inter Variable",
+      "file": "Inter-Variable.ttf",
+      "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/inter/Inter%5Bopsz,wght%5D.ttf",
+      "license": "SIL Open Font License 1.1",
+      "licenseUrl": "https://openfontlicense.org/",
+      "kind": "font",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\05-字体\\Inter\\Inter-Variable.ttf",
+      "bytes": 876576
+    },
+    {
+      "id": "montserrat-vf",
+      "name": "Montserrat Variable",
+      "file": "Montserrat-Variable.ttf",
+      "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/montserrat/Montserrat%5Bwght%5D.ttf",
+      "license": "SIL Open Font License 1.1",
+      "licenseUrl": "https://openfontlicense.org/",
+      "kind": "font",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\05-字体\\Montserrat\\Montserrat-Variable.ttf",
+      "bytes": 744936
+    }
+  ],
+  "icons": [
+    {
+      "id": "lucide-play",
+      "kind": "icon",
+      "name": "play",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/play.svg",
+      "license": "ISC",
+      "licenseUrl": "https://lucide.dev/license",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\06-图标\\Lucide\\play.svg",
+      "bytes": 381
+    },
+    {
+      "id": "lucide-pause",
+      "kind": "icon",
+      "name": "pause",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/pause.svg",
+      "license": "ISC",
+      "licenseUrl": "https://lucide.dev/license",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\06-图标\\Lucide\\pause.svg",
+      "bytes": 389
+    },
+    {
+      "id": "lucide-check",
+      "kind": "icon",
+      "name": "check",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/check.svg",
+      "license": "ISC",
+      "licenseUrl": "https://lucide.dev/license",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\06-图标\\Lucide\\check.svg",
+      "bytes": 315
+    },
+    {
+      "id": "lucide-x",
+      "kind": "icon",
+      "name": "x",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/x.svg",
+      "license": "ISC",
+      "licenseUrl": "https://lucide.dev/license",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\06-图标\\Lucide\\x.svg",
+      "bytes": 332
+    },
+    {
+      "id": "lucide-alert-triangle",
+      "kind": "icon",
+      "name": "alert-triangle",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/alert-triangle.svg",
+      "license": "ISC",
+      "licenseUrl": "https://lucide.dev/license",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\06-图标\\Lucide\\alert-triangle.svg",
+      "bytes": 430
+    },
+    {
+      "id": "lucide-info",
+      "kind": "icon",
+      "name": "info",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/info.svg",
+      "license": "ISC",
+      "licenseUrl": "https://lucide.dev/license",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\06-图标\\Lucide\\info.svg",
+      "bytes": 369
+    },
+    {
+      "id": "lucide-arrow-right",
+      "kind": "icon",
+      "name": "arrow-right",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/arrow-right.svg",
+      "license": "ISC",
+      "licenseUrl": "https://lucide.dev/license",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\06-图标\\Lucide\\arrow-right.svg",
+      "bytes": 343
+    },
+    {
+      "id": "lucide-arrow-up-right",
+      "kind": "icon",
+      "name": "arrow-up-right",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/arrow-up-right.svg",
+      "license": "ISC",
+      "licenseUrl": "https://lucide.dev/license",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\06-图标\\Lucide\\arrow-up-right.svg",
+      "bytes": 345
+    },
+    {
+      "id": "lucide-chevron-right",
+      "kind": "icon",
+      "name": "chevron-right",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/chevron-right.svg",
+      "license": "ISC",
+      "licenseUrl": "https://lucide.dev/license",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\06-图标\\Lucide\\chevron-right.svg",
+      "bytes": 321
+    },
+    {
+      "id": "lucide-search",
+      "kind": "icon",
+      "name": "search",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/search.svg",
+      "license": "ISC",
+      "licenseUrl": "https://lucide.dev/license",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\06-图标\\Lucide\\search.svg",
+      "bytes": 352
+    },
+    {
+      "id": "lucide-sparkles",
+      "kind": "icon",
+      "name": "sparkles",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/sparkles.svg",
+      "license": "ISC",
+      "licenseUrl": "https://lucide.dev/license",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\06-图标\\Lucide\\sparkles.svg",
+      "bytes": 646
+    },
+    {
+      "id": "lucide-bot",
+      "kind": "icon",
+      "name": "bot",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/bot.svg",
+      "license": "ISC",
+      "licenseUrl": "https://lucide.dev/license",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\06-图标\\Lucide\\bot.svg",
+      "bytes": 454
+    },
+    {
+      "id": "lucide-user",
+      "kind": "icon",
+      "name": "user",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/user.svg",
+      "license": "ISC",
+      "licenseUrl": "https://lucide.dev/license",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\06-图标\\Lucide\\user.svg",
+      "bytes": 374
+    },
+    {
+      "id": "lucide-users",
+      "kind": "icon",
+      "name": "users",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/users.svg",
+      "license": "ISC",
+      "licenseUrl": "https://lucide.dev/license",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\06-图标\\Lucide\\users.svg",
+      "bytes": 459
+    },
+    {
+      "id": "lucide-workflow",
+      "kind": "icon",
+      "name": "workflow",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/workflow.svg",
+      "license": "ISC",
+      "licenseUrl": "https://lucide.dev/license",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\06-图标\\Lucide\\workflow.svg",
+      "bytes": 430
+    },
+    {
+      "id": "lucide-git-branch",
+      "kind": "icon",
+      "name": "git-branch",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/git-branch.svg",
+      "license": "ISC",
+      "licenseUrl": "https://lucide.dev/license",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\06-图标\\Lucide\\git-branch.svg",
+      "bytes": 394
+    },
+    {
+      "id": "lucide-cpu",
+      "kind": "icon",
+      "name": "cpu",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/cpu.svg",
+      "license": "ISC",
+      "licenseUrl": "https://lucide.dev/license",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\06-图标\\Lucide\\cpu.svg",
+      "bytes": 664
+    },
+    {
+      "id": "lucide-database",
+      "kind": "icon",
+      "name": "database",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/database.svg",
+      "license": "ISC",
+      "licenseUrl": "https://lucide.dev/license",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\06-图标\\Lucide\\database.svg",
+      "bytes": 408
+    },
+    {
+      "id": "lucide-shield-check",
+      "kind": "icon",
+      "name": "shield-check",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/shield-check.svg",
+      "license": "ISC",
+      "licenseUrl": "https://lucide.dev/license",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\06-图标\\Lucide\\shield-check.svg",
+      "bytes": 498
+    },
+    {
+      "id": "lucide-gauge",
+      "kind": "icon",
+      "name": "gauge",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/gauge.svg",
+      "license": "ISC",
+      "licenseUrl": "https://lucide.dev/license",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\06-图标\\Lucide\\gauge.svg",
+      "bytes": 354
+    },
+    {
+      "id": "lucide-chart-line",
+      "kind": "icon",
+      "name": "chart-line",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/chart-line.svg",
+      "license": "ISC",
+      "licenseUrl": "https://lucide.dev/license",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\06-图标\\Lucide\\chart-line.svg",
+      "bytes": 362
+    },
+    {
+      "id": "lucide-bar-chart-3",
+      "kind": "icon",
+      "name": "bar-chart-3",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/bar-chart-3.svg",
+      "license": "ISC",
+      "licenseUrl": "https://lucide.dev/license",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\06-图标\\Lucide\\bar-chart-3.svg",
+      "bytes": 402
+    },
+    {
+      "id": "lucide-clock",
+      "kind": "icon",
+      "name": "clock",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/clock.svg",
+      "license": "ISC",
+      "licenseUrl": "https://lucide.dev/license",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\06-图标\\Lucide\\clock.svg",
+      "bytes": 347
+    },
+    {
+      "id": "lucide-calendar",
+      "kind": "icon",
+      "name": "calendar",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/calendar.svg",
+      "license": "ISC",
+      "licenseUrl": "https://lucide.dev/license",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\06-图标\\Lucide\\calendar.svg",
+      "bytes": 408
+    },
+    {
+      "id": "lucide-message-circle",
+      "kind": "icon",
+      "name": "message-circle",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/message-circle.svg",
+      "license": "ISC",
+      "licenseUrl": "https://lucide.dev/license",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\06-图标\\Lucide\\message-circle.svg",
+      "bytes": 432
+    },
+    {
+      "id": "lucide-send",
+      "kind": "icon",
+      "name": "send",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/send.svg",
+      "license": "ISC",
+      "licenseUrl": "https://lucide.dev/license",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\06-图标\\Lucide\\send.svg",
+      "bytes": 468
+    },
+    {
+      "id": "lucide-download",
+      "kind": "icon",
+      "name": "download",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/download.svg",
+      "license": "ISC",
+      "licenseUrl": "https://lucide.dev/license",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\06-图标\\Lucide\\download.svg",
+      "bytes": 397
+    },
+    {
+      "id": "lucide-upload",
+      "kind": "icon",
+      "name": "upload",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/upload.svg",
+      "license": "ISC",
+      "licenseUrl": "https://lucide.dev/license",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\06-图标\\Lucide\\upload.svg",
+      "bytes": 395
+    },
+    {
+      "id": "lucide-settings",
+      "kind": "icon",
+      "name": "settings",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/settings.svg",
+      "license": "ISC",
+      "licenseUrl": "https://lucide.dev/license",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\06-图标\\Lucide\\settings.svg",
+      "bytes": 665
+    },
+    {
+      "id": "lucide-image",
+      "kind": "icon",
+      "name": "image",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/image.svg",
+      "license": "ISC",
+      "licenseUrl": "https://lucide.dev/license",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\06-图标\\Lucide\\image.svg",
+      "bytes": 434
+    },
+    {
+      "id": "lucide-video",
+      "kind": "icon",
+      "name": "video",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/video.svg",
+      "license": "ISC",
+      "licenseUrl": "https://lucide.dev/license",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\06-图标\\Lucide\\video.svg",
+      "bytes": 426
+    },
+    {
+      "id": "lucide-music",
+      "kind": "icon",
+      "name": "music",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/music.svg",
+      "license": "ISC",
+      "licenseUrl": "https://lucide.dev/license",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\06-图标\\Lucide\\music.svg",
+      "bytes": 384
+    },
+    {
+      "id": "lucide-mic",
+      "kind": "icon",
+      "name": "mic",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/mic.svg",
+      "license": "ISC",
+      "licenseUrl": "https://lucide.dev/license",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\06-图标\\Lucide\\mic.svg",
+      "bytes": 400
+    },
+    {
+      "id": "lucide-volume-2",
+      "kind": "icon",
+      "name": "volume-2",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/volume-2.svg",
+      "license": "ISC",
+      "licenseUrl": "https://lucide.dev/license",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\06-图标\\Lucide\\volume-2.svg",
+      "bytes": 555
+    },
+    {
+      "id": "lucide-captions",
+      "kind": "icon",
+      "name": "captions",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/captions.svg",
+      "license": "ISC",
+      "licenseUrl": "https://lucide.dev/license",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\06-图标\\Lucide\\captions.svg",
+      "bytes": 393
+    },
+    {
+      "id": "lucide-wand-sparkles",
+      "kind": "icon",
+      "name": "wand-sparkles",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/wand-sparkles.svg",
+      "license": "ISC",
+      "licenseUrl": "https://lucide.dev/license",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\06-图标\\Lucide\\wand-sparkles.svg",
+      "bytes": 613
+    },
+    {
+      "id": "lucide-rocket",
+      "kind": "icon",
+      "name": "rocket",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/rocket.svg",
+      "license": "ISC",
+      "licenseUrl": "https://lucide.dev/license",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\06-图标\\Lucide\\rocket.svg",
+      "bytes": 606
+    },
+    {
+      "id": "lucide-badge-check",
+      "kind": "icon",
+      "name": "badge-check",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/badge-check.svg",
+      "license": "ISC",
+      "licenseUrl": "https://lucide.dev/license",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\06-图标\\Lucide\\badge-check.svg",
+      "bytes": 499
+    },
+    {
+      "id": "lucide-target",
+      "kind": "icon",
+      "name": "target",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/target.svg",
+      "license": "ISC",
+      "licenseUrl": "https://lucide.dev/license",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\06-图标\\Lucide\\target.svg",
+      "bytes": 391
+    },
+    {
+      "id": "lucide-lightbulb",
+      "kind": "icon",
+      "name": "lightbulb",
+      "url": "https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/lightbulb.svg",
+      "license": "ISC",
+      "licenseUrl": "https://lucide.dev/license",
+      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\06-图标\\Lucide\\lightbulb.svg",
+      "bytes": 451
+    }
+  ]
+}
