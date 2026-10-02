@@ -1,529 +1,926 @@
-{
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-10-01T11:05:18.441Z",
-  "manifest": "视频创作组/参考素材",
-  "libraryRoot": "D:/晶视初工作区/企业级智能体协作平台/视频创作组/参考素材",
-  "total": 21,
-  "downloaded": 21,
-  "exists": 0,
-  "failed": 0,
-  "assets": [
-    {
-      "id": "mixkit-99786-futuristic-devices",
-      "kind": "video",
-      "title": "Animation of futuristic devices",
-      "tags": [
-        "technology",
-        "abstract",
-        "devices"
-      ],
-      "source": "mixkit",
-      "sourceUrl": "https://mixkit.co/free-stock-video/technology/",
-      "downloadUrl": "https://assets.mixkit.co/videos/99786/99786-1080.mp4",
-      "license": "Mixkit Free License",
-      "licenseUrl": "https://mixkit.co/license/#videoFree",
-      "commercialUse": true,
-      "attributionRequired": false,
-      "targetPath": "视频素材/Mixkit/technology/99786-futuristic-devices.mp4",
-      "download": true,
-      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\视频素材\\Mixkit\\technology\\99786-futuristic-devices.mp4",
-      "status": "downloaded",
-      "bytes": 17792324,
-      "sha256": "519cfe061e9786210d449c94d0c7f8bb1b186ed705cf5a0705d51dfff2f4e32d",
-      "mime": "video/mp4",
-      "downloadedAt": "2026-10-01T10:59:10.663Z"
-    },
-    {
-      "id": "mixkit-50748-matrix-scrolling",
-      "kind": "video",
-      "title": "Computer screens display green text and matrix like scrolling",
-      "tags": [
-        "technology",
-        "code",
-        "screen"
-      ],
-      "source": "mixkit",
-      "sourceUrl": "https://mixkit.co/free-stock-video/technology/",
-      "downloadUrl": "https://assets.mixkit.co/videos/50748/50748-1080.mp4",
-      "license": "Mixkit Free License",
-      "licenseUrl": "https://mixkit.co/license/#videoFree",
-      "commercialUse": true,
-      "attributionRequired": false,
-      "targetPath": "视频素材/Mixkit/technology/50748-matrix-scrolling.mp4",
-      "download": true,
-      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\视频素材\\Mixkit\\technology\\50748-matrix-scrolling.mp4",
-      "status": "downloaded",
-      "bytes": 42160704,
-      "sha256": "3a757c6fcc0f779789582a10e751e36bcedacdd6cd8b3b948bcd2b5e42e0388f",
-      "mime": "video/mp4",
-      "downloadedAt": "2026-10-01T11:04:49.513Z"
-    },
-    {
-      "id": "mixkit-51214-vr-woman",
-      "kind": "video",
-      "title": "Woman wearing futuristic VR glasses",
-      "tags": [
-        "technology",
-        "vr",
-        "person"
-      ],
-      "source": "mixkit",
-      "sourceUrl": "https://mixkit.co/free-stock-video/technology/",
-      "downloadUrl": "https://assets.mixkit.co/videos/51214/51214-1080.mp4",
-      "license": "Mixkit Free License",
-      "licenseUrl": "https://mixkit.co/license/#videoFree",
-      "commercialUse": true,
-      "attributionRequired": false,
-      "targetPath": "视频素材/Mixkit/technology/51214-vr-woman.mp4",
-      "download": true,
-      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\视频素材\\Mixkit\\technology\\51214-vr-woman.mp4",
-      "status": "downloaded",
-      "bytes": 67498249,
-      "sha256": "7ed96f5b315c098b2287f843c923c03ce6c012b1e5a85c26badbb53d582754bb",
-      "mime": "video/mp4",
-      "downloadedAt": "2026-10-01T11:04:59.129Z"
-    },
-    {
-      "id": "coverr-mountain-top-8360",
-      "kind": "video",
-      "title": "Walking to the mountain top",
-      "tags": [
-        "nature",
-        "aerial",
-        "mountain"
-      ],
-      "source": "coverr",
-      "sourceUrl": "https://coverr.co/",
-      "downloadUrl": "https://cdn.coverr.co/videos/coverr-walking-to-the-mountain-top-8360/1080p.mp4",
-      "license": "Coverr License",
-      "licenseUrl": "https://coverr.co/license",
-      "commercialUse": true,
-      "attributionRequired": false,
-      "targetPath": "视频素材/Coverr/nature/coverr-walking-to-the-mountain-top-8360.mp4",
-      "download": true,
-      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\视频素材\\Coverr\\nature\\coverr-walking-to-the-mountain-top-8360.mp4",
-      "status": "downloaded",
-      "bytes": 8797143,
-      "sha256": "edb0732bd18a1f2a749ca19b7fa707c34d301eb48057b92ac7e43bb541fd2291",
-      "mime": "video/mp4",
-      "downloadedAt": "2026-10-01T11:05:00.255Z"
-    },
-    {
-      "id": "nasa-earth-from-orbit-2013",
-      "kind": "video",
-      "title": "Earth from Orbit 2013",
-      "tags": [
-        "space",
-        "earth",
-        "nasa"
-      ],
-      "source": "nasa",
-      "sourceUrl": "https://images.nasa.gov/details/GSFC_20140421_EarthOrbit_m11525",
-      "downloadUrl": "https://images-assets.nasa.gov/video/GSFC_20140421_EarthOrbit_m11525/GSFC_20140421_EarthOrbit_m11525~medium.mp4",
-      "license": "NASA Media Usage Guidelines",
-      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "commercialUse": true,
-      "attributionRequired": false,
-      "targetPath": "视频素材/NASA/space/earth-from-orbit-2013.mp4",
-      "download": true,
-      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\视频素材\\NASA\\space\\earth-from-orbit-2013.mp4",
-      "status": "downloaded",
-      "bytes": 65068407,
-      "sha256": "c080c73080a25b3b2f937ff367b9c824fb1139b0c3588099df50f2cbc09e5d7e",
-      "mime": "video/mp4",
-      "downloadedAt": "2026-10-01T11:05:07.151Z"
-    },
-    {
-      "id": "nasa-pia00342-earth-moon",
-      "kind": "image",
-      "title": "The Earth & Moon",
-      "tags": [
-        "space",
-        "earth",
-        "moon",
-        "nasa"
-      ],
-      "source": "nasa",
-      "sourceUrl": "https://images.nasa.gov/details/PIA00342",
-      "downloadUrl": "https://images-assets.nasa.gov/image/PIA00342/PIA00342~orig.jpg",
-      "license": "NASA Media Usage Guidelines",
-      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "commercialUse": true,
-      "attributionRequired": false,
-      "targetPath": "图片素材/NASA/space/PIA00342-earth-moon.jpg",
-      "download": true,
-      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\图片素材\\NASA\\space\\PIA00342-earth-moon.jpg",
-      "status": "downloaded",
-      "bytes": 267102,
-      "sha256": "9215852f0c7b55ce421776791ffbfbb4b9eae995cbf4172bce9363a75c1481a1",
-      "mime": "image/jpeg",
-      "downloadedAt": "2026-10-01T11:05:08.742Z"
-    },
-    {
-      "id": "nasa-pia00123-earth-pacific",
-      "kind": "image",
-      "title": "Earth - Pacific Ocean",
-      "tags": [
-        "space",
-        "earth",
-        "ocean",
-        "nasa"
-      ],
-      "source": "nasa",
-      "sourceUrl": "https://images.nasa.gov/details/PIA00123",
-      "downloadUrl": "https://images-assets.nasa.gov/image/PIA00123/PIA00123~orig.jpg",
-      "license": "NASA Media Usage Guidelines",
-      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "commercialUse": true,
-      "attributionRequired": false,
-      "targetPath": "图片素材/NASA/space/PIA00123-earth-pacific.jpg",
-      "download": true,
-      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\图片素材\\NASA\\space\\PIA00123-earth-pacific.jpg",
-      "status": "downloaded",
-      "bytes": 49192,
-      "sha256": "70cb56ff846eb34bbc1b86032d6fd2820a7b93d9f1b84dfa3175a80e189cd1b2",
-      "mime": "image/jpeg",
-      "downloadedAt": "2026-10-01T11:05:09.181Z"
-    },
-    {
-      "id": "nasa-pia00122-earth-india-australia",
-      "kind": "image",
-      "title": "Earth - India and Australia",
-      "tags": [
-        "space",
-        "earth",
-        "nasa"
-      ],
-      "source": "nasa",
-      "sourceUrl": "https://images.nasa.gov/details/PIA00122",
-      "downloadUrl": "https://images-assets.nasa.gov/image/PIA00122/PIA00122~orig.jpg",
-      "license": "NASA Media Usage Guidelines",
-      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "commercialUse": true,
-      "attributionRequired": false,
-      "targetPath": "图片素材/NASA/space/PIA00122-earth-india-australia.jpg",
-      "download": true,
-      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\图片素材\\NASA\\space\\PIA00122-earth-india-australia.jpg",
-      "status": "downloaded",
-      "bytes": 42953,
-      "sha256": "43b33182049829a2aeaae2d8b06fbc34349ecd9114779f3d12c80f0934af24d8",
-      "mime": "image/jpeg",
-      "downloadedAt": "2026-10-01T11:05:09.617Z"
-    },
-    {
-      "id": "nasa-pia14417-dumbbell-nebula",
-      "kind": "image",
-      "title": "Weighing in on the Dumbbell Nebula",
-      "tags": [
-        "space",
-        "nebula",
-        "nasa"
-      ],
-      "source": "nasa",
-      "sourceUrl": "https://images.nasa.gov/details/PIA14417",
-      "downloadUrl": "https://images-assets.nasa.gov/image/PIA14417/PIA14417~orig.jpg",
-      "license": "NASA Media Usage Guidelines",
-      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "commercialUse": true,
-      "attributionRequired": false,
-      "targetPath": "图片素材/NASA/space/PIA14417-dumbbell-nebula.jpg",
-      "download": true,
-      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\图片素材\\NASA\\space\\PIA14417-dumbbell-nebula.jpg",
-      "status": "downloaded",
-      "bytes": 501225,
-      "sha256": "20c4fb5a46856d29e129568d2b4e26281eacf274b6444383e91d822c553cb77a",
-      "mime": "image/jpeg",
-      "downloadedAt": "2026-10-01T11:05:10.082Z"
-    },
-    {
-      "id": "nasa-pia04216-ant-nebula",
-      "kind": "image",
-      "title": "Ant Nebula",
-      "tags": [
-        "space",
-        "nebula",
-        "nasa"
-      ],
-      "source": "nasa",
-      "sourceUrl": "https://images.nasa.gov/details/PIA04216",
-      "downloadUrl": "https://images-assets.nasa.gov/image/PIA04216/PIA04216~orig.jpg",
-      "license": "NASA Media Usage Guidelines",
-      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "commercialUse": true,
-      "attributionRequired": false,
-      "targetPath": "图片素材/NASA/space/PIA04216-ant-nebula.jpg",
-      "download": true,
-      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\图片素材\\NASA\\space\\PIA04216-ant-nebula.jpg",
-      "status": "downloaded",
-      "bytes": 148362,
-      "sha256": "67b44141fdfc4733b8f8f3e8978ccd90b0305b1ab3ef799bac4077f0812616e7",
-      "mime": "image/jpeg",
-      "downloadedAt": "2026-10-01T11:05:10.688Z"
-    },
-    {
-      "id": "nasa-pia04921-andromeda-galaxy",
-      "kind": "image",
-      "title": "Andromeda Galaxy",
-      "tags": [
-        "space",
-        "galaxy",
-        "nasa"
-      ],
-      "source": "nasa",
-      "sourceUrl": "https://images.nasa.gov/details/PIA04921",
-      "downloadUrl": "https://images-assets.nasa.gov/image/PIA04921/PIA04921~orig.jpg",
-      "license": "NASA Media Usage Guidelines",
-      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-      "commercialUse": true,
-      "attributionRequired": false,
-      "targetPath": "图片素材/NASA/space/PIA04921-andromeda-galaxy.jpg",
-      "download": true,
-      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\图片素材\\NASA\\space\\PIA04921-andromeda-galaxy.jpg",
-      "status": "downloaded",
-      "bytes": 4334335,
-      "sha256": "4c2bc14dccd339b73c55cba14d3c18a63c4609041c375be18c442ee13153a274",
-      "mime": "image/jpeg",
-      "downloadedAt": "2026-10-01T11:05:11.694Z"
-    },
-    {
-      "id": "mixkit-sfx-whoosh-1489",
-      "kind": "audio_sfx",
-      "title": "Whoosh 1489",
-      "tags": [
-        "whoosh",
-        "transition"
-      ],
-      "source": "mixkit",
-      "sourceUrl": "https://mixkit.co/free-sound-effects/whoosh/",
-      "downloadUrl": "https://assets.mixkit.co/active_storage/sfx/1489/1489-preview.mp3",
-      "license": "Mixkit Free License",
-      "licenseUrl": "https://mixkit.co/license/",
-      "commercialUse": true,
-      "attributionRequired": false,
-      "targetPath": "音效素材/Mixkit/whoosh/1489-whoosh.mp3",
-      "download": true,
-      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\音效素材\\Mixkit\\whoosh\\1489-whoosh.mp3",
-      "status": "downloaded",
-      "bytes": 71724,
-      "sha256": "8af9843a636d3b4961f0c8b3545a21e674bd43d59f97d5c38d3f9a3f04674fd2",
-      "mime": "audio/mpeg",
-      "downloadedAt": "2026-10-01T11:05:12.809Z"
-    },
-    {
-      "id": "mixkit-sfx-whoosh-1492",
-      "kind": "audio_sfx",
-      "title": "Whoosh 1492",
-      "tags": [
-        "whoosh",
-        "transition"
-      ],
-      "source": "mixkit",
-      "sourceUrl": "https://mixkit.co/free-sound-effects/whoosh/",
-      "downloadUrl": "https://assets.mixkit.co/active_storage/sfx/1492/1492-preview.mp3",
-      "license": "Mixkit Free License",
-      "licenseUrl": "https://mixkit.co/license/",
-      "commercialUse": true,
-      "attributionRequired": false,
-      "targetPath": "音效素材/Mixkit/whoosh/1492-whoosh.mp3",
-      "download": true,
-      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\音效素材\\Mixkit\\whoosh\\1492-whoosh.mp3",
-      "status": "downloaded",
-      "bytes": 44574,
-      "sha256": "5a20424fb50af5c0eda1c8aecfa2836fd347f5072391c0b3c685dc03dab7ed0d",
-      "mime": "audio/mpeg",
-      "downloadedAt": "2026-10-01T11:05:13.509Z"
-    },
-    {
-      "id": "mixkit-sfx-whoosh-1491",
-      "kind": "audio_sfx",
-      "title": "Whoosh 1491",
-      "tags": [
-        "whoosh",
-        "transition"
-      ],
-      "source": "mixkit",
-      "sourceUrl": "https://mixkit.co/free-sound-effects/whoosh/",
-      "downloadUrl": "https://assets.mixkit.co/active_storage/sfx/1491/1491-preview.mp3",
-      "license": "Mixkit Free License",
-      "licenseUrl": "https://mixkit.co/license/",
-      "commercialUse": true,
-      "attributionRequired": false,
-      "targetPath": "音效素材/Mixkit/whoosh/1491-whoosh.mp3",
-      "download": true,
-      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\音效素材\\Mixkit\\whoosh\\1491-whoosh.mp3",
-      "status": "downloaded",
-      "bytes": 36954,
-      "sha256": "f1c119427835ed61b438cf71b5e82890c10f78423a1c6553caf772e8170574cd",
-      "mime": "audio/mpeg",
-      "downloadedAt": "2026-10-01T11:05:13.722Z"
-    },
-    {
-      "id": "mixkit-sfx-whoosh-1714",
-      "kind": "audio_sfx",
-      "title": "Whoosh 1714",
-      "tags": [
-        "whoosh",
-        "transition"
-      ],
-      "source": "mixkit",
-      "sourceUrl": "https://mixkit.co/free-sound-effects/whoosh/",
-      "downloadUrl": "https://assets.mixkit.co/active_storage/sfx/1714/1714-preview.mp3",
-      "license": "Mixkit Free License",
-      "licenseUrl": "https://mixkit.co/license/",
-      "commercialUse": true,
-      "attributionRequired": false,
-      "targetPath": "音效素材/Mixkit/whoosh/1714-whoosh.mp3",
-      "download": true,
-      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\音效素材\\Mixkit\\whoosh\\1714-whoosh.mp3",
-      "status": "downloaded",
-      "bytes": 133622,
-      "sha256": "b911d354a6f440db37825086a1eb03980bcb3f5e2a4b769bc2f79e39ab5b4818",
-      "mime": "audio/mpeg",
-      "downloadedAt": "2026-10-01T11:05:14.142Z"
-    },
-    {
-      "id": "mixkit-sfx-whoosh-1490",
-      "kind": "audio_sfx",
-      "title": "Whoosh 1490",
-      "tags": [
-        "whoosh",
-        "transition"
-      ],
-      "source": "mixkit",
-      "sourceUrl": "https://mixkit.co/free-sound-effects/whoosh/",
-      "downloadUrl": "https://assets.mixkit.co/active_storage/sfx/1490/1490-preview.mp3",
-      "license": "Mixkit Free License",
-      "licenseUrl": "https://mixkit.co/license/",
-      "commercialUse": true,
-      "attributionRequired": false,
-      "targetPath": "音效素材/Mixkit/whoosh/1490-whoosh.mp3",
-      "download": true,
-      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\音效素材\\Mixkit\\whoosh\\1490-whoosh.mp3",
-      "status": "downloaded",
-      "bytes": 57624,
-      "sha256": "b88fd5d484251930efd6eca78c4340339908ea29d1e69bd24fb5191a10da4f78",
-      "mime": "audio/mpeg",
-      "downloadedAt": "2026-10-01T11:05:14.371Z"
-    },
-    {
-      "id": "mixkit-sfx-whoosh-1486",
-      "kind": "audio_sfx",
-      "title": "Whoosh 1486",
-      "tags": [
-        "whoosh",
-        "transition"
-      ],
-      "source": "mixkit",
-      "sourceUrl": "https://mixkit.co/free-sound-effects/whoosh/",
-      "downloadUrl": "https://assets.mixkit.co/active_storage/sfx/1486/1486-preview.mp3",
-      "license": "Mixkit Free License",
-      "licenseUrl": "https://mixkit.co/license/",
-      "commercialUse": true,
-      "attributionRequired": false,
-      "targetPath": "音效素材/Mixkit/whoosh/1486-whoosh.mp3",
-      "download": true,
-      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\音效素材\\Mixkit\\whoosh\\1486-whoosh.mp3",
-      "status": "downloaded",
-      "bytes": 201481,
-      "sha256": "b08198fe3a699296aca18c5911fd140dded026639be294036151dbc47a317f02",
-      "mime": "audio/mpeg",
-      "downloadedAt": "2026-10-01T11:05:15.251Z"
-    },
-    {
-      "id": "mixkit-music-623-technology",
-      "kind": "music",
-      "title": "Technology Music 623",
-      "tags": [
-        "technology",
-        "cinematic"
-      ],
-      "source": "mixkit",
-      "sourceUrl": "https://mixkit.co/free-stock-music/technology/",
-      "downloadUrl": "https://assets.mixkit.co/music/623/623.mp3",
-      "license": "Mixkit Free License",
-      "licenseUrl": "https://mixkit.co/license/",
-      "commercialUse": true,
-      "attributionRequired": false,
-      "targetPath": "音乐素材/Mixkit/technology/623-technology.mp3",
-      "download": true,
-      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\音乐素材\\Mixkit\\technology\\623-technology.mp3",
-      "status": "downloaded",
-      "bytes": 9240540,
-      "sha256": "ac7e28f0cdd6c607df199c759f34ca66cfebd881ea61c26473fb4cecebe64fa8",
-      "mime": "audio/mpeg",
-      "downloadedAt": "2026-10-01T11:05:16.664Z"
-    },
-    {
-      "id": "mixkit-music-1167-technology",
-      "kind": "music",
-      "title": "Technology Music 1167",
-      "tags": [
-        "technology",
-        "cinematic"
-      ],
-      "source": "mixkit",
-      "sourceUrl": "https://mixkit.co/free-stock-music/technology/",
-      "downloadUrl": "https://assets.mixkit.co/music/1167/1167.mp3",
-      "license": "Mixkit Free License",
-      "licenseUrl": "https://mixkit.co/license/",
-      "commercialUse": true,
-      "attributionRequired": false,
-      "targetPath": "音乐素材/Mixkit/technology/1167-technology.mp3",
-      "download": true,
-      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\音乐素材\\Mixkit\\technology\\1167-technology.mp3",
-      "status": "downloaded",
-      "bytes": 3045294,
-      "sha256": "a7f05a29d07a84d38072ccd2b35204bca812db86e75b2a837e71cc144d3e739b",
-      "mime": "audio/mpeg",
-      "downloadedAt": "2026-10-01T11:05:17.623Z"
-    },
-    {
-      "id": "mixkit-music-132-technology",
-      "kind": "music",
-      "title": "Technology Music 132",
-      "tags": [
-        "technology",
-        "cinematic"
-      ],
-      "source": "mixkit",
-      "sourceUrl": "https://mixkit.co/free-stock-music/technology/",
-      "downloadUrl": "https://assets.mixkit.co/music/132/132.mp3",
-      "license": "Mixkit Free License",
-      "licenseUrl": "https://mixkit.co/license/",
-      "commercialUse": true,
-      "attributionRequired": false,
-      "targetPath": "音乐素材/Mixkit/technology/132-technology.mp3",
-      "download": true,
-      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\音乐素材\\Mixkit\\technology\\132-technology.mp3",
-      "status": "downloaded",
-      "bytes": 4071238,
-      "sha256": "5a30d042dc51f517dc64b5d409e1ac0b9dba2a80241f8955f41257585e77890f",
-      "mime": "audio/mpeg",
-      "downloadedAt": "2026-10-01T11:05:18.024Z"
-    },
-    {
-      "id": "mixkit-music-371-technology",
-      "kind": "music",
-      "title": "Technology Music 371",
-      "tags": [
-        "technology",
-        "cinematic"
-      ],
-      "source": "mixkit",
-      "sourceUrl": "https://mixkit.co/free-stock-music/technology/",
-      "downloadUrl": "https://assets.mixkit.co/music/371/371.mp3",
-      "license": "Mixkit Free License",
-      "licenseUrl": "https://mixkit.co/license/",
-      "commercialUse": true,
-      "attributionRequired": false,
-      "targetPath": "音乐素材/Mixkit/technology/371-technology.mp3",
-      "download": true,
-      "target": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\音乐素材\\Mixkit\\technology\\371-technology.mp3",
-      "status": "downloaded",
-      "bytes": 3969820,
-      "sha256": "e241cba000ce12e52cadd4c9956274e391ef1f66d1e48a5dd40bfc21645aa489",
-      "mime": "audio/mpeg",
-      "downloadedAt": "2026-10-01T11:05:18.440Z"
-    }
-  ]
-}
+[
+  {
+    "id": "pexels-img-8613083",
+    "type": "image",
+    "title": "Pexels Photo 8613083",
+    "category": "儿童学习",
+    "filePath": "01-图片/儿童学习/pexels-8613083.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/8613083/",
+    "license": "Pexels License (免费可商用)",
+    "fileSize": 236832,
+    "qualityScore": 8,
+    "mood": [
+      "温馨",
+      "专业"
+    ],
+    "dimensions": [
+      "画面维度",
+      "色彩维度"
+    ],
+    "reviewedBy": "asset-collector",
+    "reviewNote": "Pexels CDN直接下载，文件大小231KB",
+    "downloadedAt": "2026-10-02 18:21:36"
+  },
+  {
+    "id": "pexels-img-8613089",
+    "type": "image",
+    "title": "Pexels Photo 8613089",
+    "category": "儿童学习",
+    "filePath": "01-图片/儿童学习/pexels-8613089.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/8613089/",
+    "license": "Pexels License (免费可商用)",
+    "fileSize": 145526,
+    "qualityScore": 7,
+    "mood": [
+      "温馨",
+      "专业"
+    ],
+    "dimensions": [
+      "画面维度",
+      "色彩维度"
+    ],
+    "reviewedBy": "asset-collector",
+    "reviewNote": "Pexels CDN直接下载，文件大小142KB",
+    "downloadedAt": "2026-10-02 18:21:37"
+  },
+  {
+    "id": "pexels-img-8613103",
+    "type": "image",
+    "title": "Pexels Photo 8613103",
+    "category": "儿童学习",
+    "filePath": "01-图片/儿童学习/pexels-8613103.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/8613103/",
+    "license": "Pexels License (免费可商用)",
+    "fileSize": 108092,
+    "qualityScore": 7,
+    "mood": [
+      "温馨",
+      "专业"
+    ],
+    "dimensions": [
+      "画面维度",
+      "色彩维度"
+    ],
+    "reviewedBy": "asset-collector",
+    "reviewNote": "Pexels CDN直接下载，文件大小106KB",
+    "downloadedAt": "2026-10-02 18:21:39"
+  },
+  {
+    "id": "pexels-img-8613324",
+    "type": "image",
+    "title": "Pexels Photo 8613324",
+    "category": "儿童学习",
+    "filePath": "01-图片/儿童学习/pexels-8613324.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/8613324/",
+    "license": "Pexels License (免费可商用)",
+    "fileSize": 101296,
+    "qualityScore": 7,
+    "mood": [
+      "温馨",
+      "专业"
+    ],
+    "dimensions": [
+      "画面维度",
+      "色彩维度"
+    ],
+    "reviewedBy": "asset-collector",
+    "reviewNote": "Pexels CDN直接下载，文件大小99KB",
+    "downloadedAt": "2026-10-02 18:21:41"
+  },
+  {
+    "id": "pexels-img-3662803",
+    "type": "image",
+    "title": "Pexels Photo 3662803",
+    "category": "儿童学习",
+    "filePath": "01-图片/儿童学习/pexels-3662803.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/3662803/",
+    "license": "Pexels License (免费可商用)",
+    "fileSize": 185450,
+    "qualityScore": 7,
+    "mood": [
+      "温馨",
+      "专业"
+    ],
+    "dimensions": [
+      "画面维度",
+      "色彩维度"
+    ],
+    "reviewedBy": "asset-collector",
+    "reviewNote": "Pexels CDN直接下载，文件大小181KB",
+    "downloadedAt": "2026-10-02 18:21:43"
+  },
+  {
+    "id": "pexels-img-3662874",
+    "type": "image",
+    "title": "Pexels Photo 3662874",
+    "category": "儿童学习",
+    "filePath": "01-图片/儿童学习/pexels-3662874.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/3662874/",
+    "license": "Pexels License (免费可商用)",
+    "fileSize": 194792,
+    "qualityScore": 7,
+    "mood": [
+      "温馨",
+      "专业"
+    ],
+    "dimensions": [
+      "画面维度",
+      "色彩维度"
+    ],
+    "reviewedBy": "asset-collector",
+    "reviewNote": "Pexels CDN直接下载，文件大小190KB",
+    "downloadedAt": "2026-10-02 18:21:45"
+  },
+  {
+    "id": "pexels-img-3933023",
+    "type": "image",
+    "title": "Pexels Photo 3933023",
+    "category": "儿童护眼",
+    "filePath": "01-图片/儿童护眼/pexels-3933023.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/3933023/",
+    "license": "Pexels License (免费可商用)",
+    "fileSize": 199102,
+    "qualityScore": 7,
+    "mood": [
+      "清晰",
+      "专业"
+    ],
+    "dimensions": [
+      "画面维度",
+      "色彩维度"
+    ],
+    "reviewedBy": "asset-collector",
+    "reviewNote": "Pexels CDN直接下载，文件大小194KB",
+    "downloadedAt": "2026-10-02 18:21:48"
+  },
+  {
+    "id": "pexels-img-3933024",
+    "type": "image",
+    "title": "Pexels Photo 3933024",
+    "category": "儿童护眼",
+    "filePath": "01-图片/儿童护眼/pexels-3933024.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/3933024/",
+    "license": "Pexels License (免费可商用)",
+    "fileSize": 79142,
+    "qualityScore": 7,
+    "mood": [
+      "清晰",
+      "专业"
+    ],
+    "dimensions": [
+      "画面维度",
+      "色彩维度"
+    ],
+    "reviewedBy": "asset-collector",
+    "reviewNote": "Pexels CDN直接下载，文件大小77KB",
+    "downloadedAt": "2026-10-02 18:21:49"
+  },
+  {
+    "id": "pexels-img-4145430",
+    "type": "image",
+    "title": "Pexels Photo 4145430",
+    "category": "儿童护眼",
+    "filePath": "01-图片/儿童护眼/pexels-4145430.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/4145430/",
+    "license": "Pexels License (免费可商用)",
+    "fileSize": 330452,
+    "qualityScore": 8,
+    "mood": [
+      "清晰",
+      "专业"
+    ],
+    "dimensions": [
+      "画面维度",
+      "色彩维度"
+    ],
+    "reviewedBy": "asset-collector",
+    "reviewNote": "Pexels CDN直接下载，文件大小323KB",
+    "downloadedAt": "2026-10-02 18:21:52"
+  },
+  {
+    "id": "pexels-img-1081710",
+    "type": "image",
+    "title": "Pexels Photo 1081710",
+    "category": "儿童护眼",
+    "filePath": "01-图片/儿童护眼/pexels-1081710.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/1081710/",
+    "license": "Pexels License (免费可商用)",
+    "fileSize": 30486,
+    "qualityScore": 7,
+    "mood": [
+      "清晰",
+      "专业"
+    ],
+    "dimensions": [
+      "画面维度",
+      "色彩维度"
+    ],
+    "reviewedBy": "asset-collector",
+    "reviewNote": "Pexels CDN直接下载，文件大小30KB",
+    "downloadedAt": "2026-10-02 18:21:54"
+  },
+  {
+    "id": "pexels-img-3768126",
+    "type": "image",
+    "title": "Pexels Photo 3768126",
+    "category": "温馨家庭",
+    "filePath": "01-图片/温馨家庭/pexels-3768126.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/3768126/",
+    "license": "Pexels License (免费可商用)",
+    "fileSize": 334122,
+    "qualityScore": 8,
+    "mood": [
+      "温馨",
+      "专业"
+    ],
+    "dimensions": [
+      "画面维度",
+      "色彩维度"
+    ],
+    "reviewedBy": "asset-collector",
+    "reviewNote": "Pexels CDN直接下载，文件大小326KB",
+    "downloadedAt": "2026-10-02 18:23:00"
+  },
+  {
+    "id": "pexels-img-4145430",
+    "type": "image",
+    "title": "Pexels Photo 4145430",
+    "category": "温馨家庭",
+    "filePath": "01-图片/温馨家庭/pexels-4145430.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/4145430/",
+    "license": "Pexels License (免费可商用)",
+    "fileSize": 330452,
+    "qualityScore": 8,
+    "mood": [
+      "温馨",
+      "专业"
+    ],
+    "dimensions": [
+      "画面维度",
+      "色彩维度"
+    ],
+    "reviewedBy": "asset-collector",
+    "reviewNote": "Pexels CDN直接下载，文件大小323KB",
+    "downloadedAt": "2026-10-02 18:23:01"
+  },
+  {
+    "id": "pexels-img-3933025",
+    "type": "image",
+    "title": "Pexels Photo 3933025",
+    "category": "温馨家庭",
+    "filePath": "01-图片/温馨家庭/pexels-3933025.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/3933025/",
+    "license": "Pexels License (免费可商用)",
+    "fileSize": 87030,
+    "qualityScore": 7,
+    "mood": [
+      "温馨",
+      "专业"
+    ],
+    "dimensions": [
+      "画面维度",
+      "色彩维度"
+    ],
+    "reviewedBy": "asset-collector",
+    "reviewNote": "Pexels CDN直接下载，文件大小85KB",
+    "downloadedAt": "2026-10-02 18:23:04"
+  },
+  {
+    "id": "pexels-img-8612995",
+    "type": "image",
+    "title": "Pexels Photo 8612995",
+    "category": "儿童玩耍",
+    "filePath": "01-图片/儿童玩耍/pexels-8612995.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/8612995/",
+    "license": "Pexels License (免费可商用)",
+    "fileSize": 219408,
+    "qualityScore": 8,
+    "mood": [
+      "清晰",
+      "专业"
+    ],
+    "dimensions": [
+      "画面维度",
+      "色彩维度"
+    ],
+    "reviewedBy": "asset-collector",
+    "reviewNote": "Pexels CDN直接下载，文件大小214KB",
+    "downloadedAt": "2026-10-02 18:23:06"
+  },
+  {
+    "id": "pexels-img-8613149",
+    "type": "image",
+    "title": "Pexels Photo 8613149",
+    "category": "儿童玩耍",
+    "filePath": "01-图片/儿童玩耍/pexels-8613149.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/8613149/",
+    "license": "Pexels License (免费可商用)",
+    "fileSize": 156992,
+    "qualityScore": 7,
+    "mood": [
+      "清晰",
+      "专业"
+    ],
+    "dimensions": [
+      "画面维度",
+      "色彩维度"
+    ],
+    "reviewedBy": "asset-collector",
+    "reviewNote": "Pexels CDN直接下载，文件大小153KB",
+    "downloadedAt": "2026-10-02 18:23:08"
+  },
+  {
+    "id": "pexels-img-8613062",
+    "type": "image",
+    "title": "Pexels Photo 8613062",
+    "category": "儿童玩耍",
+    "filePath": "01-图片/儿童玩耍/pexels-8613062.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/8613062/",
+    "license": "Pexels License (免费可商用)",
+    "fileSize": 134474,
+    "qualityScore": 7,
+    "mood": [
+      "清晰",
+      "专业"
+    ],
+    "dimensions": [
+      "画面维度",
+      "色彩维度"
+    ],
+    "reviewedBy": "asset-collector",
+    "reviewNote": "Pexels CDN直接下载，文件大小131KB",
+    "downloadedAt": "2026-10-02 18:23:10"
+  },
+  {
+    "id": "pexels-img-1166473",
+    "type": "image",
+    "title": "Pexels Photo 1166473",
+    "category": "儿童玩耍",
+    "filePath": "01-图片/儿童玩耍/pexels-1166473.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/1166473/",
+    "license": "Pexels License (免费可商用)",
+    "fileSize": 98310,
+    "qualityScore": 7,
+    "mood": [
+      "清晰",
+      "专业"
+    ],
+    "dimensions": [
+      "画面维度",
+      "色彩维度"
+    ],
+    "reviewedBy": "asset-collector",
+    "reviewNote": "Pexels CDN直接下载，文件大小96KB",
+    "downloadedAt": "2026-10-02 18:23:12"
+  },
+  {
+    "id": "pexels-img-9303753",
+    "type": "image",
+    "title": "Pexels Photo 9303753",
+    "category": "儿童玩耍",
+    "filePath": "01-图片/儿童玩耍/pexels-9303753.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/9303753/",
+    "license": "Pexels License (免费可商用)",
+    "fileSize": 286656,
+    "qualityScore": 8,
+    "mood": [
+      "清晰",
+      "专业"
+    ],
+    "dimensions": [
+      "画面维度",
+      "色彩维度"
+    ],
+    "reviewedBy": "asset-collector",
+    "reviewNote": "Pexels CDN直接下载，文件大小280KB",
+    "downloadedAt": "2026-10-02 18:23:14"
+  },
+  {
+    "id": "pexels-img-3662820",
+    "type": "image",
+    "title": "Pexels Photo 3662820",
+    "category": "儿童玩耍",
+    "filePath": "01-图片/儿童玩耍/pexels-3662820.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/3662820/",
+    "license": "Pexels License (免费可商用)",
+    "fileSize": 154434,
+    "qualityScore": 7,
+    "mood": [
+      "清晰",
+      "专业"
+    ],
+    "dimensions": [
+      "画面维度",
+      "色彩维度"
+    ],
+    "reviewedBy": "asset-collector",
+    "reviewNote": "Pexels CDN直接下载，文件大小151KB",
+    "downloadedAt": "2026-10-02 18:23:16"
+  },
+  {
+    "id": "pexels-img-1094072",
+    "type": "image",
+    "title": "Pexels Photo 1094072",
+    "category": "儿童玩耍",
+    "filePath": "01-图片/儿童玩耍/pexels-1094072.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/1094072/",
+    "license": "Pexels License (免费可商用)",
+    "fileSize": 157956,
+    "qualityScore": 7,
+    "mood": [
+      "清晰",
+      "专业"
+    ],
+    "dimensions": [
+      "画面维度",
+      "色彩维度"
+    ],
+    "reviewedBy": "asset-collector",
+    "reviewNote": "Pexels CDN直接下载，文件大小154KB",
+    "downloadedAt": "2026-10-02 18:23:17"
+  },
+  {
+    "id": "pexels-img-3933026",
+    "type": "image",
+    "title": "Pexels Photo 3933026",
+    "category": "护眼科普",
+    "filePath": "01-图片/护眼科普/pexels-3933026.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/3933026/",
+    "license": "Pexels License (免费可商用)",
+    "fileSize": 242594,
+    "qualityScore": 8,
+    "mood": [
+      "清晰",
+      "专业"
+    ],
+    "dimensions": [
+      "画面维度",
+      "色彩维度"
+    ],
+    "reviewedBy": "asset-collector",
+    "reviewNote": "Pexels CDN直接下载，文件大小237KB",
+    "downloadedAt": "2026-10-02 18:23:20"
+  },
+  {
+    "id": "pexels-img-3768127",
+    "type": "image",
+    "title": "Pexels Photo 3768127",
+    "category": "护眼科普",
+    "filePath": "01-图片/护眼科普/pexels-3768127.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/3768127/",
+    "license": "Pexels License (免费可商用)",
+    "fileSize": 82262,
+    "qualityScore": 7,
+    "mood": [
+      "清晰",
+      "专业"
+    ],
+    "dimensions": [
+      "画面维度",
+      "色彩维度"
+    ],
+    "reviewedBy": "asset-collector",
+    "reviewNote": "Pexels CDN直接下载，文件大小80KB",
+    "downloadedAt": "2026-10-02 18:23:22"
+  },
+  {
+    "id": "pexels-img-4065864",
+    "type": "image",
+    "title": "Pexels Photo 4065864",
+    "category": "温馨家庭",
+    "filePath": "01-图片/温馨家庭/pexels-4065864.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/4065864/",
+    "license": "Pexels License (免费可商用)",
+    "fileSize": 147974,
+    "qualityScore": 7,
+    "mood": [
+      "温馨",
+      "专业"
+    ],
+    "dimensions": [
+      "画面维度",
+      "色彩维度"
+    ],
+    "reviewedBy": "asset-collector",
+    "reviewNote": "Pexels CDN直接下载，文件大小145KB",
+    "downloadedAt": "2026-10-02 18:24:02"
+  },
+  {
+    "id": "pexels-img-5905886",
+    "type": "image",
+    "title": "Pexels Photo 5905886",
+    "category": "温馨家庭",
+    "filePath": "01-图片/温馨家庭/pexels-5905886.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/5905886/",
+    "license": "Pexels License (免费可商用)",
+    "fileSize": 130896,
+    "qualityScore": 7,
+    "mood": [
+      "温馨",
+      "专业"
+    ],
+    "dimensions": [
+      "画面维度",
+      "色彩维度"
+    ],
+    "reviewedBy": "asset-collector",
+    "reviewNote": "Pexels CDN直接下载，文件大小128KB",
+    "downloadedAt": "2026-10-02 18:24:04"
+  },
+  {
+    "id": "pexels-img-5430243",
+    "type": "image",
+    "title": "Pexels Photo 5430243",
+    "category": "温馨家庭",
+    "filePath": "01-图片/温馨家庭/pexels-5430243.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/5430243/",
+    "license": "Pexels License (免费可商用)",
+    "fileSize": 40396,
+    "qualityScore": 7,
+    "mood": [
+      "温馨",
+      "专业"
+    ],
+    "dimensions": [
+      "画面维度",
+      "色彩维度"
+    ],
+    "reviewedBy": "asset-collector",
+    "reviewNote": "Pexels CDN直接下载，文件大小39KB",
+    "downloadedAt": "2026-10-02 18:24:06"
+  },
+  {
+    "id": "pexels-img-5427103",
+    "type": "image",
+    "title": "Pexels Photo 5427103",
+    "category": "温馨家庭",
+    "filePath": "01-图片/温馨家庭/pexels-5427103.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/5427103/",
+    "license": "Pexels License (免费可商用)",
+    "fileSize": 131770,
+    "qualityScore": 7,
+    "mood": [
+      "温馨",
+      "专业"
+    ],
+    "dimensions": [
+      "画面维度",
+      "色彩维度"
+    ],
+    "reviewedBy": "asset-collector",
+    "reviewNote": "Pexels CDN直接下载，文件大小129KB",
+    "downloadedAt": "2026-10-02 18:24:07"
+  },
+  {
+    "id": "pexels-img-5199754",
+    "type": "image",
+    "title": "Pexels Photo 5199754",
+    "category": "温馨家庭",
+    "filePath": "01-图片/温馨家庭/pexels-5199754.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/5199754/",
+    "license": "Pexels License (免费可商用)",
+    "fileSize": 196496,
+    "qualityScore": 7,
+    "mood": [
+      "温馨",
+      "专业"
+    ],
+    "dimensions": [
+      "画面维度",
+      "色彩维度"
+    ],
+    "reviewedBy": "asset-collector",
+    "reviewNote": "Pexels CDN直接下载，文件大小192KB",
+    "downloadedAt": "2026-10-02 18:24:09"
+  },
+  {
+    "id": "pexels-img-8383448",
+    "type": "image",
+    "title": "Pexels Photo 8383448",
+    "category": "温馨家庭",
+    "filePath": "01-图片/温馨家庭/pexels-8383448.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/8383448/",
+    "license": "Pexels License (免费可商用)",
+    "fileSize": 79630,
+    "qualityScore": 7,
+    "mood": [
+      "温馨",
+      "专业"
+    ],
+    "dimensions": [
+      "画面维度",
+      "色彩维度"
+    ],
+    "reviewedBy": "asset-collector",
+    "reviewNote": "Pexels CDN直接下载，文件大小78KB",
+    "downloadedAt": "2026-10-02 18:24:12"
+  },
+  {
+    "id": "pexels-img-3765115",
+    "type": "image",
+    "title": "Pexels Photo 3765115",
+    "category": "温馨家庭",
+    "filePath": "01-图片/温馨家庭/pexels-3765115.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/3765115/",
+    "license": "Pexels License (免费可商用)",
+    "fileSize": 60848,
+    "qualityScore": 7,
+    "mood": [
+      "温馨",
+      "专业"
+    ],
+    "dimensions": [
+      "画面维度",
+      "色彩维度"
+    ],
+    "reviewedBy": "asset-collector",
+    "reviewNote": "Pexels CDN直接下载，文件大小59KB",
+    "downloadedAt": "2026-10-02 18:24:13"
+  },
+  {
+    "id": "pexels-img-5622385",
+    "type": "image",
+    "title": "Pexels Photo 5622385",
+    "category": "温馨家庭",
+    "filePath": "01-图片/温馨家庭/pexels-5622385.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/5622385/",
+    "license": "Pexels License (免费可商用)",
+    "fileSize": 141554,
+    "qualityScore": 7,
+    "mood": [
+      "温馨",
+      "专业"
+    ],
+    "dimensions": [
+      "画面维度",
+      "色彩维度"
+    ],
+    "reviewedBy": "asset-collector",
+    "reviewNote": "Pexels CDN直接下载，文件大小138KB",
+    "downloadedAt": "2026-10-02 18:24:15"
+  },
+  {
+    "id": "pexels-img-2707089",
+    "type": "image",
+    "title": "Pexels Photo 2707089",
+    "category": "护眼科普",
+    "filePath": "01-图片/护眼科普/pexels-2707089.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/2707089/",
+    "license": "Pexels License (免费可商用)",
+    "fileSize": 403016,
+    "qualityScore": 8,
+    "mood": [
+      "清晰",
+      "专业"
+    ],
+    "dimensions": [
+      "画面维度",
+      "色彩维度"
+    ],
+    "reviewedBy": "asset-collector",
+    "reviewNote": "Pexels CDN直接下载，文件大小394KB",
+    "downloadedAt": "2026-10-02 18:24:18"
+  },
+  {
+    "id": "pexels-img-5996701",
+    "type": "image",
+    "title": "Pexels Photo 5996701",
+    "category": "护眼科普",
+    "filePath": "01-图片/护眼科普/pexels-5996701.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/5996701/",
+    "license": "Pexels License (免费可商用)",
+    "fileSize": 41880,
+    "qualityScore": 7,
+    "mood": [
+      "清晰",
+      "专业"
+    ],
+    "dimensions": [
+      "画面维度",
+      "色彩维度"
+    ],
+    "reviewedBy": "asset-collector",
+    "reviewNote": "Pexels CDN直接下载，文件大小41KB",
+    "downloadedAt": "2026-10-02 18:24:19"
+  },
+  {
+    "id": "pexels-img-704241",
+    "type": "image",
+    "title": "Pexels Photo 704241",
+    "category": "护眼科普",
+    "filePath": "01-图片/护眼科普/pexels-704241.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/704241/",
+    "license": "Pexels License (免费可商用)",
+    "fileSize": 311770,
+    "qualityScore": 8,
+    "mood": [
+      "清晰",
+      "专业"
+    ],
+    "dimensions": [
+      "画面维度",
+      "色彩维度"
+    ],
+    "reviewedBy": "asset-collector",
+    "reviewNote": "Pexels CDN直接下载，文件大小304KB",
+    "downloadedAt": "2026-10-02 18:24:21"
+  },
+  {
+    "id": "pexels-img-3184287",
+    "type": "image",
+    "title": "Pexels Photo 3184287",
+    "category": "商务科技",
+    "filePath": "01-图片/商务科技/pexels-3184287.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/3184287/",
+    "license": "Pexels License (免费可商用)",
+    "fileSize": 271664,
+    "qualityScore": 8,
+    "mood": [
+      "清晰",
+      "专业"
+    ],
+    "dimensions": [
+      "画面维度",
+      "色彩维度"
+    ],
+    "reviewedBy": "asset-collector",
+    "reviewNote": "Pexels CDN直接下载，文件大小265KB",
+    "downloadedAt": "2026-10-02 18:24:22"
+  },
+  {
+    "id": "pexels-img-3184291",
+    "type": "image",
+    "title": "Pexels Photo 3184291",
+    "category": "商务科技",
+    "filePath": "01-图片/商务科技/pexels-3184291.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/3184291/",
+    "license": "Pexels License (免费可商用)",
+    "fileSize": 126700,
+    "qualityScore": 7,
+    "mood": [
+      "清晰",
+      "专业"
+    ],
+    "dimensions": [
+      "画面维度",
+      "色彩维度"
+    ],
+    "reviewedBy": "asset-collector",
+    "reviewNote": "Pexels CDN直接下载，文件大小124KB",
+    "downloadedAt": "2026-10-02 18:24:23"
+  },
+  {
+    "id": "pexels-img-3184360",
+    "type": "image",
+    "title": "Pexels Photo 3184360",
+    "category": "商务科技",
+    "filePath": "01-图片/商务科技/pexels-3184360.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/3184360/",
+    "license": "Pexels License (免费可商用)",
+    "fileSize": 120688,
+    "qualityScore": 7,
+    "mood": [
+      "清晰",
+      "专业"
+    ],
+    "dimensions": [
+      "画面维度",
+      "色彩维度"
+    ],
+    "reviewedBy": "asset-collector",
+    "reviewNote": "Pexels CDN直接下载，文件大小118KB",
+    "downloadedAt": "2026-10-02 18:24:24"
+  },
+  {
+    "id": "pexels-img-7688336",
+    "type": "image",
+    "title": "Pexels Photo 7688336",
+    "category": "商务科技",
+    "filePath": "01-图片/商务科技/pexels-7688336.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/7688336/",
+    "license": "Pexels License (免费可商用)",
+    "fileSize": 212134,
+    "qualityScore": 8,
+    "mood": [
+      "清晰",
+      "专业"
+    ],
+    "dimensions": [
+      "画面维度",
+      "色彩维度"
+    ],
+    "reviewedBy": "asset-collector",
+    "reviewNote": "Pexels CDN直接下载，文件大小207KB",
+    "downloadedAt": "2026-10-02 18:24:26"
+  },
+  {
+    "id": "pexels-img-374720",
+    "type": "image",
+    "title": "Pexels Photo 374720",
+    "category": "商务科技",
+    "filePath": "01-图片/商务科技/pexels-374720.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/374720/",
+    "license": "Pexels License (免费可商用)",
+    "fileSize": 78728,
+    "qualityScore": 7,
+    "mood": [
+      "清晰",
+      "专业"
+    ],
+    "dimensions": [
+      "画面维度",
+      "色彩维度"
+    ],
+    "reviewedBy": "asset-collector",
+    "reviewNote": "Pexels CDN直接下载，文件大小77KB",
+    "downloadedAt": "2026-10-02 18:24:27"
+  },
+  {
+    "id": "pexels-img-5104705",
+    "type": "image",
+    "title": "Pexels Photo 5104705",
+    "category": "商务科技",
+    "filePath": "01-图片/商务科技/pexels-5104705.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/5104705/",
+    "license": "Pexels License (免费可商用)",
+    "fileSize": 266330,
+    "qualityScore": 8,
+    "mood": [
+      "清晰",
+      "专业"
+    ],
+    "dimensions": [
+      "画面维度",
+      "色彩维度"
+    ],
+    "reviewedBy": "asset-collector",
+    "reviewNote": "Pexels CDN直接下载，文件大小260KB",
+    "downloadedAt": "2026-10-02 18:24:30"
+  },
+  {
+    "id": "pexels-img-6147014",
+    "type": "image",
+    "title": "Pexels Photo 6147014",
+    "category": "商务科技",
+    "filePath": "01-图片/商务科技/pexels-6147014.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/6147014/",
+    "license": "Pexels License (免费可商用)",
+    "fileSize": 202414,
+    "qualityScore": 7,
+    "mood": [
+      "清晰",
+      "专业"
+    ],
+    "dimensions": [
+      "画面维度",
+      "色彩维度"
+    ],
+    "reviewedBy": "asset-collector",
+    "reviewNote": "Pexels CDN直接下载，文件大小198KB",
+    "downloadedAt": "2026-10-02 18:24:33"
+  },
+  {
+    "id": "pexels-img-8637969",
+    "type": "image",
+    "title": "Pexels Photo 8637969",
+    "category": "商务科技",
+    "filePath": "01-图片/商务科技/pexels-8637969.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/8637969/",
+    "license": "Pexels License (免费可商用)",
+    "fileSize": 95196,
+    "qualityScore": 7,
+    "mood": [
+      "清晰",
+      "专业"
+    ],
+    "dimensions": [
+      "画面维度",
+      "色彩维度"
+    ],
+    "reviewedBy": "asset-collector",
+    "reviewNote": "Pexels CDN直接下载，文件大小93KB",
+    "downloadedAt": "2026-10-02 18:24:35"
+  },
+  {
+    "id": "pexels-img-8438982",
+    "type": "image",
+    "title": "Pexels Photo 8438982",
+    "category": "商务科技",
+    "filePath": "01-图片/商务科技/pexels-8438982.jpg",
+    "sourceUrl": "https://www.pexels.com/photo/8438982/",
+    "license": "Pexels License (免费可商用)",
+    "fileSize": 65948,
+    "qualityScore": 7,
+    "mood": [
+      "清晰",
+      "专业"
+    ],
+    "dimensions": [
+      "画面维度",
+      "色彩维度"
+    ],
+    "reviewedBy": "asset-collector",
+    "reviewNote": "Pexels CDN直接下载，文件大小64KB",
+    "downloadedAt": "2026-10-02 18:24:36"
+  }
+]
