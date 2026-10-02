@@ -1,0 +1,18 @@
+{
+  "shot_id":"S01",
+  "subject":"真实工作台首屏",
+  "action":"一句话输入后系统自动拆任务",
+  "scene":"艾瑞斯工作台任务镜台",
+  "camera":"缓慢推进，保持界面稳定",
+  "lighting":"深色 UI + 青色强调光",
+  "style":"科技纪录片 / 真实产品演示",
+  "duration":4.0,
+  "source_mode":"real_capture",
+  "asset_ref":"视频创作组/参考素材/04-capture/ui/ui-01.png",
+  "prompt":"真实工作台界面，任务镜台，输入一句话，任务自动拆分，保持原界面文字清晰，不生成假 UI",
+  "negative_prompt":"抽象色块，假数据，乱码，过度粒子",
+  "seed":"real-capture-001",
+  "model":"Playwright 真录屏",
+  "license":"公司自有",
+  "gate":{"hook_evidence":"前3秒出现真实界面和任务自动流转","readable":true,"proof":"任务与质量门同时可见","aspect_ratio":"9:16"}
+}

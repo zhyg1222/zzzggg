@@ -1,0 +1,56 @@
+{
+  "generatedAt": "2026-10-01T11:13:45.719Z",
+  "license": "self-made / company-owned",
+  "format": "IRIDAS .cube / LUT_3D_SIZE 33",
+  "count": 8,
+  "luts": [
+    {
+      "id": "brand-cyan",
+      "title": "Brand Cyan",
+      "desc": "Cool shadows, cyan accents, soft contrast.",
+      "file": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\04-LUT调色\\brand-cyan.cube"
+    },
+    {
+      "id": "brand-gold",
+      "title": "Brand Gold",
+      "desc": "Warm highlights, rich shadow, premium feel.",
+      "file": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\04-LUT调色\\brand-gold.cube"
+    },
+    {
+      "id": "cyber-blue",
+      "title": "Cyber Blue",
+      "desc": "Strong blue/cyan, crushed blacks, tech look.",
+      "file": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\04-LUT调色\\cyber-blue.cube"
+    },
+    {
+      "id": "teal-orange",
+      "title": "Teal Orange",
+      "desc": "Teal shadows, orange skin/highlights.",
+      "file": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\04-LUT调色\\teal-orange.cube"
+    },
+    {
+      "id": "filmic-soft",
+      "title": "Filmic Soft",
+      "desc": "Gentle S-curve, low saturation, filmic.",
+      "file": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\04-LUT调色\\filmic-soft.cube"
+    },
+    {
+      "id": "high-contrast",
+      "title": "High Contrast",
+      "desc": "Punchy contrast for social short form.",
+      "file": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\04-LUT调色\\high-contrast.cube"
+    },
+    {
+      "id": "muted-pro",
+      "title": "Muted Professional",
+      "desc": "Low saturation, clean corporate look.",
+      "file": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\04-LUT调色\\muted-pro.cube"
+    },
+    {
+      "id": "night-neon",
+      "title": "Night Neon",
+      "desc": "Magenta/cyan split tone for tech night scenes.",
+      "file": "D:\\晶视初工作区\\企业级智能体协作平台\\视频创作组\\参考素材\\04-LUT调色\\night-neon.cube"
+    }
+  ]
+}

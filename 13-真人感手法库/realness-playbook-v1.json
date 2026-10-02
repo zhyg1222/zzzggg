@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-10-02T12:20:00+08:00",
+  "goal": "把「真人感 = 0」从感觉问题变成可复用手法库。做片前先选手法，选了才允许进生成。",
+  "hardRule": "没有真人感手法选择，不许进生成；同一支片先写 10 个钩子再选 2 个 A/B。",
+  "sources": [
+    {"claim": "70% 消费者更愿意从「创始人亲自讲品牌故事」的公司购买", "publisher": "Sprout Social", "url": "https://sproutsocial.com/insights/data/social-media-connection/", "via": "vidico.com/news/best-startup-videos"},
+    {"claim": "55% 的品牌在加入真实创始人访谈后可测得信任度提升", "publisher": "Edelman Trust Barometer", "url": "https://www.edelman.com/trust/trust-barometer", "via": "vidico.com/news/best-startup-videos"},
+    {"claim": "真实感比制作精度更能拉动互动（Authenticity matters more than production quality）", "publisher": "Vidico 2000+ 项目复盘", "url": "https://vidico.com/news/best-startup-videos/"},
+    {"claim": "Dollar Shave Club 用 $4,500 的粗糙创始人片换来 48 小时 12,000 单", "publisher": "Business Insider", "url": "https://www.businessinsider.com/dollar-shave-club-youtube-viral-video-launch-2023-3"},
+    {"claim": "UGC 钩子六型：痛点 / 前后对比 / 犯错 / 真实测评 / 具体场景 / 视觉钩子", "publisher": "Vidovo", "url": "https://www.vidovo.com/blog/ugc-hook-examples-how-brands-can-create-better-ugc-ads-in-the-first-3-seconds"},
+    {"claim": "前 3 秒决定生死；抖音每 3~5 秒一个新信息点", "publisher": "蝉妈妈 / 翔宇工作流", "url": "https://xiangyugongzuoliu.com/douyin-xiaohongshu-popular-creation-methods/"}
+  ],
+  "tactics": [
+    {"id": "R1", "name": "创始人真出镜", "what": "本人对镜头说话，讲为什么做这件事、踩过什么坑。", "evidence": "70% 更愿买 / 55% 信任提升", "cost": "老板 10 分钟手机自拍", "realnessGain": "最高", "need": "老板本人"},
+    {"id": "R2", "name": "真声不用合成音", "what": "呼吸、停顿、口误、语气词全保留；不追播音腔。", "evidence": "真实感 > 制作精度", "cost": "零", "realnessGain": "高", "need": "老板录音 或 真人配音员"},
+    {"id": "R3", "name": "真素材优先", "what": "真录屏（带光标轨迹）、真桌面、真界面、真数据；抽象背景只做转场。", "evidence": "行业通行", "cost": "零（我们已有）", "realnessGain": "中高", "need": "无"},
+    {"id": "R4", "name": "录屏 + 画中画人脸", "what": "facecam 小窗叠在录屏角落，Loom 与多数工具演示片的标准做法。", "evidence": "Loom / 工具片通例", "cost": "一段网络摄像头画面", "realnessGain": "高", "need": "老板 3 分钟网摄像头"},
+    {"id": "R5", "name": "第一人称 + 具体细节", "what": "「上个月」「4 小时」「我女儿」替掉形容词。禁止编造事实，无事实的槽位必须标【需你定】。", "evidence": "UGC 具体场景钩子", "cost": "零", "realnessGain": "中", "need": "老板口述 2~3 个真实细节"},
+    {"id": "R6", "name": "钩子六型 + 结构", "what": "前 3 秒钩子；结构：钩子→冲突→转折→证据→反问→CTA；每 3~5 秒一个新信息点。", "evidence": "UGC / 抖音方法论", "cost": "零", "realnessGain": "不直接提升真人感，但决定完播", "need": "无"}
+  ],
+  "ourOptions": [
+    {"id": "A", "name": "老板自拍 3 段 × 15 秒", "realness": "到位", "cost": "10 分钟", "recommended": true},
+    {"id": "B", "name": "不出镜：真声 + 真录屏 + 手部实拍 + facecam 小窗 + 现场音效", "realness": "约 70%", "cost": "一次素材拍摄", "recommended": true},
+    {"id": "C", "name": "AI 数字人口播", "realness": "最低，天花板一眼到底", "cost": "最低", "recommended": false}
+  ],
+  "scriptStructureRule": {
+    "required": ["提问钩子", "冲突", "转折", "证据>=1", "反问或爽点", "CTA"],
+    "forbid": ["连续 3 句以上纯陈述", "空泛自夸", "无证据的承诺"],
+    "check": "tools/ 中可按此规则做话术结构校验（未建）"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-10-01T19:20:00+08:00",
+  "font": "Noto Sans SC / Inter",
+  "safeArea": "1920x1080: 左右160px，底部120px；9:16 导出时按安全区重新排",
+  "styles": [
+    {"id":"pop","name":"弹出强调","file":"caption-pop.ass","use":"短视频关键词"},
+    {"id":"slide-up","name":"上滑入场","file":"caption-slide-up.ass","use":"信息揭示"},
+    {"id":"karaoke","name":"逐字高亮","file":"caption-karaoke.ass","use":"口播同步"},
+    {"id":"bilingual","name":"中英双语","file":"caption-bilingual.ass","use":"专业感/出海"},
+    {"id":"lower-third","name":"下三分之一","file":"caption-lower-third.ass","use":"人物/品牌介绍"},
+    {"id":"news-ticker","name":"横向滚屏","file":"caption-news-ticker.ass","use":"数据/信息流"},
+    {"id":"highlight-box","name":"重点框选","file":"caption-highlight-box.ass","use":"关键结论"},
+    {"id":"kinetic-number","name":"数字冲击","file":"caption-kinetic-number.ass","use":"数据/结果"}
+  ]
+}

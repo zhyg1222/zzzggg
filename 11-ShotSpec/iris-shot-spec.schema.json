@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://iris.local/schemas/iris-shot-spec.schema.json",
+  "title": "IRISShotSpec",
+  "type": "object",
+  "required": ["shot_id","subject","action","scene","camera","lighting","style","duration","source_mode","asset_ref","prompt","negative_prompt","seed","model","license","gate"],
+  "properties": {
+    "shot_id": {"type":"string","pattern":"^S[0-9]{2,}$"},
+    "subject": {"type":"string","minLength":2},
+    "action": {"type":"string","minLength":2},
+    "scene": {"type":"string","minLength":2},
+    "camera": {"type":"string","minLength":2},
+    "lighting": {"type":"string","minLength":2},
+    "style": {"type":"string","minLength":2},
+    "duration": {"type":"number","minimum":0.5,"maximum":60},
+    "source_mode": {"type":"string","enum":["real_capture","stock","ai_image","ai_video","3d","graphic","hybrid"]},
+    "asset_ref": {"type":"string","minLength":1},
+    "prompt": {"type":"string","minLength":5},
+    "negative_prompt": {"type":"string"},
+    "seed": {"type":["integer","string"]},
+    "model": {"type":"string","minLength":1},
+    "license": {"type":"string","minLength":1},
+    "gate": {
+      "type":"object",
+      "required":["hook_evidence","readable","proof","aspect_ratio"],
+      "properties":{
+        "hook_evidence":{"type":"string","minLength":2},
+        "readable":{"type":"boolean"},
+        "proof":{"type":"string","minLength":2},
+        "aspect_ratio":{"type":"string","enum":["16:9","9:16","1:1","4:5","other"]}
+      },
+      "additionalProperties":false
+    }
+  },
+  "additionalProperties": false
+}

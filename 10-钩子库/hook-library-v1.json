@@ -1,0 +1,28 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-10-01T19:35:00+08:00",
+  "goal": "把“话术没钩子”变成可复用模板库。没有钩子，不许开生产。",
+  "rule": "钩子必须具体：具体对象 + 具体痛点/冲突 + 具体承诺或证据。禁止空泛自夸。",
+  "hooks": [
+    {"id":"H01","category":"痛点","template":"你是不是也{具体场景}？","example":"你是不是也觉得，跟 AI 说了半天，它还是只给你一段话？","structure":"具体场景+共鸣","useWhen":"观众有明确痛点","avoid":"痛点不具体","proofNeeded":"第一屏要有场景画面","emotion":"共鸣","length":"12-22字"},
+    {"id":"H02","category":"痛点","template":"别再{低效动作}了，{新做法}只要{极小动作}。","example":"别再一个个翻工具了，一句话就能让 64 个岗位自己开工。","structure":"否定旧习惯+轻承诺","useWhen":"观众正在用低效方法","avoid":"贬低用户","proofNeeded":"后面必须给真实操作","emotion":"解脱","length":"18-28字"},
+    {"id":"H03","category":"痛点","template":"你还在{低效动作}？我已经{更好结果}。","example":"你还在一个个翻 GitHub？我已经让 AI 把榜单跑完了。","structure":"对比+优越感","useWhen":"有明确替代动作","avoid":"没有真实结果","proofNeeded":"榜单/数据/界面","emotion":"反差","length":"16-26字"},
+    {"id":"H04","category":"反差","template":"这家公司{反常识事实}。","example":"这家公司没有一个员工，但 64 个岗位今天都交活了。","structure":"反常识+悬念","useWhen":"产品有反常识设定","avoid":"反常识无法被证明","proofNeeded":"岗位/任务/账本","emotion":"好奇","length":"14-24字"},
+    {"id":"H05","category":"反差","template":"我只说了一句话，{系统做了超预期的事}。","example":"我只说了一句话，64 个岗位开始自己排班、干活、交证据。","structure":"极小输入+巨大输出","useWhen":"产品自动化能力强","avoid":"输出夸张无证据","proofNeeded":"任务流/状态变化","emotion":"惊喜","length":"18-28字"},
+    {"id":"H06","category":"反差","template":"别人还在{旧方式}，我们已经{新方式}。","example":"别人还在给 AI 写提示词，我们已经让 AI 自己建公司了。","structure":"群体对比+升级","useWhen":"有明确新旧对比","avoid":"空泛踩竞品","proofNeeded":"真实系统画面","emotion":"领先感","length":"16-26字"},
+    {"id":"H07","category":"悬念","template":"我关掉电脑后，{系统还在发生什么}。","example":"我关掉电脑后，公司还在自己运转。","structure":"场景+悬念","useWhen":"讲自动化/持续性","avoid":"没有后续揭示","proofNeeded":"任务继续推进的画面","emotion":"好奇","length":"14-22字"},
+    {"id":"H08","category":"悬念","template":"它做了一件我没让它做的事：{结果}。","example":"它做了一件我没让它做的事：自己发现问题、自己修复、自己留证据。","structure":"意外+能力揭示","useWhen":"讲自愈/自治","avoid":"虚构能力","proofNeeded":"故障→修复→证据链","emotion":"惊讶","length":"18-28字"},
+    {"id":"H09","category":"悬念","template":"三分钟后，{结果发生了变化}。","example":"三分钟后，120 条结果被分成三张榜。","structure":"时间压力+结果","useWhen":"讲速度/自动化","avoid":"时间没有证据","proofNeeded":"计时器/结果页","emotion":"紧张","length":"14-22字"},
+    {"id":"H10","category":"数据","template":"{数字}个{单位}，正在{做什么}。","example":"64 个岗位，正在替老板上班。","structure":"数字+动作","useWhen":"有真实数字","avoid":"数字造假","proofNeeded":"看板/账本/截图","emotion":"可信","length":"12-20字"},
+    {"id":"H11","category":"数据","template":"从{起点}到{终点}，只用了{数字}。","example":"从一句话到成片，只用了 17 分钟。","structure":"跨度+时间/成本","useWhen":"讲效率","avoid":"没有前后证据","proofNeeded":"时间戳/产物","emotion":"效率感","length":"14-24字"},
+    {"id":"H12","category":"数据","template":"{数字}道门，过了{结果}。","example":"6 道质量门，全部 PASS。","structure":"标准+结果","useWhen":"讲质量","avoid":"只报数字不给证据","proofNeeded":"门报告","emotion":"专业","length":"10-18字"},
+    {"id":"H13","category":"结果","template":"一句话进去，{结果}自己出来。","example":"一句话进去，任务、证据、成片自己出来。","structure":"输入→输出","useWhen":"产品自动化强","avoid":"结果模糊","proofNeeded":"真实流程画面","emotion":"轻松","length":"14-24字"},
+    {"id":"H14","category":"结果","template":"不用{旧成本}，也能{新结果}。","example":"不用加人，也能让内容持续产出。","structure":"成本对比+结果","useWhen":"讲降本增效","avoid":"承诺过满","proofNeeded":"前后数字","emotion":"解脱","length":"14-24字"},
+    {"id":"H15","category":"结果","template":"以前{旧流程}，现在{新流程}。","example":"以前是老板催人干活，现在是任务自己找人。","structure":"前后对比","useWhen":"流程变化明显","avoid":"没有真实截图","proofNeeded":"前后界面","emotion":"升级","length":"16-26字"},
+    {"id":"H16","category":"权威","template":"真界面、真数据、真跑通：{证据}。","example":"真界面、真数据、真跑通：6/6 质量门 PASS。","structure":"三真+证据","useWhen":"产品演示","avoid":"只有口号","proofNeeded":"录屏+报告","emotion":"信任","length":"16-26字"},
+    {"id":"H17","category":"权威","template":"不是{虚的东西}，是{可验证的东西}。","example":"不是演示，是带哈希和授权的产物台账。","structure":"否定+可验证","useWhen":"讲可信度","avoid":"无法验证","proofNeeded":"台账/哈希","emotion":"专业","length":"14-24字"},
+    {"id":"H18","category":"避坑","template":"做{任务}最容易踩的坑：{坑}。","example":"做 AI 视频最容易踩的坑：画面很炫，但没有真实证据。","structure":"问题+坑","useWhen":"知识型内容","avoid":"泛泛而谈","proofNeeded":"反例画面对比","emotion":"警醒","length":"16-26字"},
+    {"id":"H19","category":"对比","template":"A 看起来{表面优点}，B 真正{深层优点}。","example":"A 看起来会生成，B 真正能把生成、审核、交付串起来。","structure":"表层 vs 深层","useWhen":"对比方案","avoid":"踩一捧一","proofNeeded":"并排对比","emotion":"理性","length":"18-30字"},
+    {"id":"H20","category":"行动","template":"如果你也想{目标}，先看{证据}。","example":"如果你也想让内容自己跑，先看这 6 道质量门。","structure":"目标+CTA","useWhen":"结尾转化","avoid":"没有前面铺垫","proofNeeded":"结果展示","emotion":"行动","length":"14-24字"}
+  ]
+}

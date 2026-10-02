@@ -1,0 +1,92 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-10-01T11:14:39.000Z",
+  "license": "self-made / company-owned",
+  "count": 12,
+  "components": [
+    {
+      "id": "bilingual-title",
+      "name": "中英双语标题",
+      "use": "开场/章节标题",
+      "html": "<div class=\"iris-title\"><div class=\"cn\">一个任务进来，岗位自己认领</div><div class=\"en\">ONE BRIEF IN. THE RIGHT AGENTS TAKE OVER.</div></div>",
+      "css": ".iris-title{font-family:'Noto Sans SC',sans-serif;color:#fff}.iris-title .cn{font-size:58px;font-weight:800;letter-spacing:1px}.iris-title .en{font-size:22px;letter-spacing:3px;color:#8ed8ff;margin-top:8px}"
+    },
+    {
+      "id": "lower-third",
+      "name": "下三分之一人物条",
+      "use": "人物/岗位介绍",
+      "html": "<div class=\"iris-lower\"><b>内容策略师</b><span>把老板意图变成成功判据</span></div>",
+      "css": ".iris-lower{display:inline-block;padding:14px 22px;border-left:5px solid #22d3ee;background:rgba(5,12,24,.82);color:#fff}.iris-lower b{display:block;font:700 26px 'Noto Sans SC',sans-serif}.iris-lower span{display:block;margin-top:4px;color:#9fb3d1;font:15px 'Noto Sans SC',sans-serif}"
+    },
+    {
+      "id": "metric-counter",
+      "name": "数字计数器",
+      "use": "真数据/结果",
+      "html": "<div class=\"iris-metric\"><b>64</b><span>个岗位在上班</span><em>+ 12 道质量门</em></div>",
+      "css": ".iris-metric{text-align:center;color:#fff;font-family:'Inter','Noto Sans SC',sans-serif}.iris-metric b{font-size:110px;color:#22d3ee;line-height:1}.iris-metric span{display:block;font-size:26px}.iris-metric em{display:block;color:#8ed8ff;font-size:18px;margin-top:8px}"
+    },
+    {
+      "id": "progress-bar",
+      "name": "进度条",
+      "use": "流程/完成度",
+      "html": "<div class=\"iris-progress\"><div class=\"head\"><span>质量门</span><b>6 / 6 PASS</b></div><div class=\"bar\"><i style=\"width:100%\"></i></div></div>",
+      "css": ".iris-progress{width:620px;color:#fff;font-family:'Inter','Noto Sans SC',sans-serif}.iris-progress .head{display:flex;justify-content:space-between;margin-bottom:8px}.iris-progress .bar{height:14px;background:#132033;border-radius:999px;overflow:hidden}.iris-progress .bar i{display:block;height:100%;background:linear-gradient(90deg,#22d3ee,#22c55e)}"
+    },
+    {
+      "id": "browser-frame",
+      "name": "浏览器窗口框",
+      "use": "真实产品界面",
+      "html": "<div class=\"iris-browser\"><div class=\"bar\"><i></i><i></i><i></i><span>iris-os.app / workbench</span></div><div class=\"screen\">真实工作台截图放这里</div></div>",
+      "css": ".iris-browser{border:1px solid #2a3b57;border-radius:14px;overflow:hidden;background:#0b1322}.iris-browser .bar{height:34px;display:flex;align-items:center;gap:7px;padding:0 12px;background:#121d30;color:#8fa6c8;font:12px Inter}.iris-browser .bar i{width:10px;height:10px;border-radius:50%;background:#ff6b6b}.iris-browser .screen{padding:30px;color:#dbe8ff;background:#07101f}"
+    },
+    {
+      "id": "phone-frame",
+      "name": "手机框",
+      "use": "竖屏界面/App演示",
+      "html": "<div class=\"iris-phone\"><div class=\"notch\"></div><div class=\"screen\">竖屏内容</div></div>",
+      "css": ".iris-phone{width:260px;height:520px;border:10px solid #1d293d;border-radius:38px;background:#03060f;position:relative;overflow:hidden}.iris-phone .notch{width:100px;height:20px;background:#1d293d;border-radius:0 0 14px 14px;margin:0 auto}.iris-phone .screen{height:100%;color:#dbe8ff;padding:24px 16px}"
+    },
+    {
+      "id": "step-timeline",
+      "name": "步骤时间线",
+      "use": "流程/链路",
+      "html": "<div class=\"iris-steps\"><span>策略</span><i></i><span>生成</span><i></i><span>剪辑</span><i></i><span>混音</span><i></i><span>交付</span></div>",
+      "css": ".iris-steps{display:flex;align-items:center;gap:10px;color:#fff;font-family:'Noto Sans SC'}.iris-steps span{padding:8px 12px;border:1px solid #315073;border-radius:999px;background:#0b1322}.iris-steps i{width:24px;height:1px;background:#22d3ee}"
+    },
+    {
+      "id": "comparison-table",
+      "name": "前后对比表",
+      "use": "效果/竞品对比",
+      "html": "<table class=\"iris-compare\"><tr><th>项</th><th>普通工作流</th><th>艾瑞斯 OS</th></tr><tr><td>任务</td><td>人工派活</td><td>岗位自己认领</td></tr><tr><td>证据</td><td>口头完成</td><td>哈希/台账/质量门</td></tr></table>",
+      "css": ".iris-compare{border-collapse:collapse;color:#e6eefb;font:15px 'Noto Sans SC'}.iris-compare th,.iris-compare td{border:1px solid #28405c;padding:10px 14px;text-align:left}.iris-compare th{background:#12233a;color:#8ed8ff}"
+    },
+    {
+      "id": "quote-card",
+      "name": "引用卡",
+      "use": "客户/老板原话",
+      "html": "<div class=\"iris-quote\"><p>“我在聊天框里输入一句话，然后只看最终结果。”</p><span>— 老板</span></div>",
+      "css": ".iris-quote{max-width:720px;padding:24px 28px;border-left:5px solid #f2c46b;background:rgba(11,19,34,.9);color:#fff;font:22px/1.7 'Noto Sans SC'}.iris-quote span{display:block;margin-top:12px;color:#9fb3d1;font-size:15px}"
+    },
+    {
+      "id": "data-callout",
+      "name": "数据标注",
+      "use": "关键数字",
+      "html": "<div class=\"iris-callout\"><b>120</b><span>条结果 / 14 秒</span></div>",
+      "css": ".iris-callout{display:inline-flex;align-items:baseline;gap:10px;padding:10px 16px;border:1px solid #22d3ee55;border-radius:12px;background:#071426;color:#fff}.iris-callout b{font:700 42px Inter;color:#22d3ee}.iris-callout span{font:15px Noto Sans SC;color:#b9c6db}"
+    },
+    {
+      "id": "task-card",
+      "name": "任务卡",
+      "use": "任务看板/流程演示",
+      "html": "<div class=\"iris-task\"><div class=\"tag\">RUNNING</div><b>生成首帧</b><p>负责人：视频生成师</p><div class=\"mini\"><i style=\"width:62%\"></i></div></div>",
+      "css": ".iris-task{width:300px;padding:16px;border:1px solid #2b405f;border-radius:12px;background:#0b1322;color:#fff;font-family:'Noto Sans SC'}.iris-task .tag{float:right;color:#22c55e;font:11px Inter}.iris-task b{font-size:18px}.iris-task p{color:#8fa6c8;font-size:13px}.iris-task .mini{height:8px;background:#15243a;border-radius:999px;overflow:hidden}.iris-task .mini i{display:block;height:100%;background:#22d3ee}"
+    },
+    {
+      "id": "end-card-cta",
+      "name": "结尾 CTA",
+      "use": "收束/行动指令",
+      "html": "<div class=\"iris-end\"><h2>艾瑞斯 OS</h2><p>一句话进来，结果自己出来。</p><button>开始接入</button></div>",
+      "css": ".iris-end{text-align:center;color:#fff;font-family:'Noto Sans SC'}.iris-end h2{font-size:58px;margin:0}.iris-end p{color:#b9c6db;font-size:22px}.iris-end button{margin-top:12px;padding:12px 28px;border:0;border-radius:999px;background:#22d3ee;color:#03101c;font-weight:800}"
+    }
+  ]
+}

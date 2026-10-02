@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-10-01T19:20:00+08:00",
+  "license": "self-made / company-owned",
+  "note": "所有转场为 FFmpeg/HyperFrames 可复用配方；duration 默认为秒。硬切优先，特效只在动机明确时使用。",
+  "transitions": [
+    {"id":"hard-cut","name":"硬切","duration":0,"use":"默认转场；>80% 镜头使用","avoid":"情绪需要连续时","ffmpeg":"[0:v][1:v]concat=n=2:v=1:a=0[v]"},
+    {"id":"crossfade","name":"交叉淡化","duration":0.6,"use":"时间流逝、情绪过渡","avoid":"短视频快切","ffmpeg":"[0:v][1:v]xfade=transition=fade:duration=0.6:offset=OFFSET[v]"},
+    {"id":"whip-pan-left","name":"左甩镜","duration":0.35,"use":"节奏加速、场景跳转","avoid":"需要保持空间连续时","ffmpeg":"[0:v]fade=t=out:st=0:d=0.2,setpts=PTS-STARTPTS[a];[1:v]fade=t=in:st=0:d=0.2,setpts=PTS-STARTPTS[b];[a][b]concat=n=2:v=1:a=0[v]"},
+    {"id":"whip-pan-right","name":"右甩镜","duration":0.35,"use":"节奏加速、场景跳转","avoid":"需要保持空间连续时","ffmpeg":"[0:v]fade=t=out:st=0:d=0.2,setpts=PTS-STARTPTS[a];[1:v]fade=t=in:st=0:d=0.2,setpts=PTS-STARTPTS[b];[a][b]concat=n=2:v=1:a=0[v]"},
+    {"id":"slide-up","name":"上滑","duration":0.45,"use":"信息层级上升、列表推进","avoid":"镜头主体在移动时","ffmpeg":"[0:v][1:v]xfade=transition=slideup:duration=0.45:offset=OFFSET[v]"},
+    {"id":"zoom-punch","name":"推近冲击","duration":0.4,"use":"重点数字、结论","avoid":"连续多次使用","ffmpeg":"[0:v]scale=iw*1.06:ih*1.06,crop=iw/1.06:ih/1.06,setpts=PTS-STARTPTS[a];[a][1:v]xfade=transition=zoomin:duration=0.4:offset=OFFSET[v]"},
+    {"id":"glitch-rgb","name":"RGB 故障","duration":0.25,"use":"错误/风险/科技感","avoid":"正式汇报开场","ffmpeg":"[0:v][1:v]xfade=transition=pixelize:duration=0.25:offset=OFFSET[v]"},
+    {"id":"light-leak","name":"漏光","duration":0.5,"use":"回忆、转场温度变化","avoid":"冷科技主题","ffmpeg":"[0:v][1:v]xfade=transition=wipeleft:duration=0.5:offset=OFFSET[v]"},
+    {"id":"mask-wipe","name":"遮罩擦除","duration":0.45,"use":"章节切换","avoid":"信息密集时","ffmpeg":"[0:v][1:v]xfade=transition=wiperight:duration=0.45:offset=OFFSET[v]"},
+    {"id":"luma-wipe","name":"亮度擦除","duration":0.45,"use":"结构章节","avoid":"无 LUT 素材","ffmpeg":"[0:v][1:v]xfade=transition=fadeblack:duration=0.45:offset=OFFSET[v]"}
+  ]
+}
